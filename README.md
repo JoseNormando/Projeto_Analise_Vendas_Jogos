@@ -1,2 +1,2 @@
 # Projeto_Analise_Vendas_Jogos
-Neste projeto utilizo as funcionalidades das bibliotecas do Python para fazer uma análise visual dos dados referente à venda de jogos ao redor do mundo.
+Utilizo das ferramentas visuais oferecidas pelo Python para fazer uma análise de dados referente a venda de mais de 11 mil jogos ao redor do mundo.
